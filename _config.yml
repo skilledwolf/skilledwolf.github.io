@@ -14,7 +14,7 @@ name                     : &name "Dr. Tobias Wolf"
 description              : >-  
   &description Personal website and research profile of condensed matter physicist Dr. Tobias Wolf. 
   Here, you will find a research statement, a CV and publications. 
-url                      : https://skilledwolf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wolft.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "skilledwolf/skilledwolf.github.io"
 
@@ -34,7 +34,7 @@ author:
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/wolf_t_2.html" # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.ch/citations?user=Txjl9gEAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.ch/citations?hl=en&user=Txjl9gEAAAAJ&view_op=list_works&sortby=pubdate"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0003-4665-9874"
   pubmed           : # URL
