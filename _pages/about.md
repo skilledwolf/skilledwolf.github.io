@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /home
 ---
 
 I am a postdoctoral researcher in the field of condensed matter physics, currently in the group of [Prof. Allan MacDonald](https://web2.ph.utexas.edu/~macdgrp/) at the [Center for Complex Quantum Systems](http://order.ph.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/). I obtained my PhD degree at the [Institute for Theoretical Physics](https://itp.phys.ethz.ch/) of ETH Zürich, supervised by [Prof. Gianni Blatter](https://itp.phys.ethz.ch/research/condmat/vortex.html) (*condensed and coherent quantum systems*) and [Prof. Oded Zilberberg](https://quest.phys.ethz.ch/) (*quantum engineered systems*).
