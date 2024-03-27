@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Publications
-
 *   **Functional renormalization group study of superconductivity in rhombohedral trilayer graphene**\
     *Wei Qin, Chunli Huang, Tobias M. R. Wolf, Nemin Wei, Igor Blinov, Allan H MacDonald*\
     [Phys. Rev. Lett. 130, 146001](https://doi.org/10.1103/PhysRevLett.130.146001), [arXiv:2203.09083](https://arxiv.org/abs/2203.09083)
@@ -34,7 +32,7 @@ author_profile: true
     [Phys. Rev. Lett. 123, 096802 (2019)](https://arxiv.org/ct?url=https%3A%2F%2Fdx.doi.org%2F10.1103%2FPhysRevLett.123.096802&v=7f46eec8), [arXiv:1905.07651](https://arxiv.org/abs/1905.07651).
 
 -   **Tunneling into a finite Luttinger liquid coupled to noisy capacitive leads**\
-    A. Štrkalj, M. S. Ferguson, T. M. R. Wolf, I. Levkivskyi, O. Zilberberg\
+    *A. Štrkalj, M. S. Ferguson, T. M. R. Wolf, I. Levkivskyi, O. Zilberberg*\
     [Phys. Rev. Lett. 122, 126802 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.126802), [arXiv:1809.01631](https://arxiv.org/abs/1809.01631).
 
 {% comment %}
