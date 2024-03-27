@@ -5,16 +5,17 @@ permalink: /presentations
 author_profile: true
 ---
 
-# {% if site.talkmap_link == true %}
+{% comment %}
+{% if site.talkmap_link == true %}
 
-# <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-# {% endif %}
+{% endif %}
 
-# {% for post in site.talks reversed %}
-#   {% include archive-single-talk.html %}
-# {% endfor %}
-
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+{% endcomment %}
 
 ## Conferences and Seminars
 
