@@ -31,9 +31,13 @@ author_profile: true
     *T. M. R. Wolf, J. L. Lado, G. Blatter, O. Zilberberg*\
     [Phys. Rev. Lett. 123, 096802 (2019)](https://arxiv.org/ct?url=https%3A%2F%2Fdx.doi.org%2F10.1103%2FPhysRevLett.123.096802&v=7f46eec8), [arXiv:1905.07651](https://arxiv.org/abs/1905.07651).
 
--   **Tunneling into a finite Luttinger liquid coupled to noisy capacitive leads**\
+*   **Tunneling into a finite Luttinger liquid coupled to noisy capacitive leads**\
     *A. Štrkalj, M. S. Ferguson, T. M. R. Wolf, I. Levkivskyi, O. Zilberberg*\
     [Phys. Rev. Lett. 122, 126802 (2018)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.126802), [arXiv:1809.01631](https://arxiv.org/abs/1809.01631).
+
+*   **Substrate-induced topological minibands in graphene**\
+    *Tobias M. R. Wolf, Oded Zilberberg, Ivan Levkivskyi, and Gianni Blatter*\
+    [Phys. Rev. B 98, 125408 (2018)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.98.125408), [arxiv:1805.10670](https://arxiv.org/abs/1805.10670).
 
 {% comment %}
 {% for post in site.publications reversed %}
