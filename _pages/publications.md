@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+*   **Gate-tunable topological phases in superlattice modulated bilayer graphene**\
+    *Yongxin Zeng , Tobias M R Wolf , Chunli Huang , and Nemin Wei, Sayed Ali Akbar Ghorashi, Allan H MacDonald, Jennifer Cano*\
+    [arXiv:2401.04321](https://arxiv.org/abs/2401.04321)
+
+*   **Quasi-boson approximation yields accurate correlation energy in the 2D electron gas**\
+    *Tobias M. R. Wolf, Chunli Huang*\
+    [arXiv:2311.11449](https://arxiv.org/abs/2311.11449)
+
 *   **Functional renormalization group study of superconductivity in rhombohedral trilayer graphene**\
     *Wei Qin, Chunli Huang, Tobias M. R. Wolf, Nemin Wei, Igor Blinov, Allan H MacDonald*\
     [Phys. Rev. Lett. 130, 146001](https://doi.org/10.1103/PhysRevLett.130.146001), [arXiv:2203.09083](https://arxiv.org/abs/2203.09083)
