@@ -27,7 +27,7 @@ Employment and work experience
 Fellowships and awards
 ----------------------
 
--   *Fall 2021 -- Fall 2023*: **PostDoc.Mobility SNSF Fellowship (Grant No. 203152)**\
+-   **PostDoc.Mobility SNSF Fellowship (Grant No. 203152)**: *Fall 2021 -- Fall 2023*\
   Swiss National Science Foundation (SNSF)\
   *Project:* Quantum Engineered van der Waals Materials
 
