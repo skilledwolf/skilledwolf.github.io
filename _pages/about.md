@@ -8,6 +8,9 @@ redirect_from:
   - /home
 ---
 
+**Watch out!** Criminals were spoofing wolft.net as mail domain for phishing attacks. SPF, DKIM and DMARC settings should prevent this in the future. This domain has no mail server attached. Any mail you supposedly received from this domain is from criminals trying to obscure their address. Take care! [May 18, 2023]
+{: .notice}
+
 I am a postdoctoral researcher in the field of condensed matter physics, currently in the group of [Prof. Allan MacDonald](https://web2.ph.utexas.edu/~macdgrp/) at the [Center for Complex Quantum Systems](http://order.ph.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/). I obtained my PhD degree at the [Institute for Theoretical Physics](https://itp.phys.ethz.ch/) of ETH Zürich, supervised by [Prof. Gianni Blatter](https://itp.phys.ethz.ch/research/condmat/vortex.html) (*condensed and coherent quantum systems*) and [Prof. Oded Zilberberg](https://quest.phys.ethz.ch/) (*quantum engineered systems*).
 
 My research focuses on low-energy models and exotic observable signatures *(e.g. in electronic spectra, local density of states, absorption spectra)* in singlelayer, bilayer and few-layer materials *(e.g. graphene, hBN, MoS2)* and syntheticically engineered analogues thereof. These two-dimensional materials provide a natural platform for moiré superstructures by stacking layers with small twists. Such moiré lead to rare phenomena (*e.g. fractal Landau-Hofstadter subband splitting, engineerable flat bands, ...*) associated to the emergence of a new length scale (*exceeding the microscopic lattice constants by an order of magnitude)*. I investigte effective models that capture the essential features of moiré structures to provide deeper understanding to complementary numerical studies.
