@@ -14,7 +14,7 @@ name                     : &name "Dr. Tobias Wolf"
 description              : >-  
   &description Personal website and research profile of condensed matter physicist Dr. Tobias Wolf. 
   Here, you will find a research statement, a CV and publications. 
-url                      : https://wolft.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tobiaswolf.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "skilledwolf/skilledwolf.github.io"
 
