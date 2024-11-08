@@ -1,10 +1,16 @@
 # main links links
 main:
+  - title: "Home"
+    url: /
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=8Z6Z9YIAAAAJ&hl=en
+  - title: "Download CV"
+    url: /files/CV_Web_WolfTobias_Nov4_2024.pdf
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Presentations"
-    url: /presentations/    
+  # - title: "Presentations"
+  #   url: /presentations/    
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -15,8 +21,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
