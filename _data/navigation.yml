@@ -4,10 +4,10 @@ main:
     url: /
   - title: "Publications"
     url: https://scholar.google.ch/citations?hl=en&user=Txjl9gEAAAAJ&view_op=list_works&sortby=pubdate
-    target: "_blank"
+    target: _blank
   - title: "Download CV"
     url: /files/CV_Web_WolfTobias_Nov4_2024.pdf
-    target: "_blank"
+    target: _blank
   # - title: "Publications"
   #   url: /publications/
 
