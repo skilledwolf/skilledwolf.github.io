@@ -50,11 +50,6 @@ exclude:
   - vendor
   - README.md
   - Gemfile.lock
-  - _legacy_pages/
-  - talkmap/
-  - talkmap.html
-  - talkmap.ipynb
-  - talkmap.py
 
 # Content collections (kept hidden/output: false like original)
 collections:
