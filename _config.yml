@@ -1,6 +1,6 @@
 title: "tobiaswolf.net"
 description: "A simple, modern Jekyll 4 site."
-url: ""      # set to your production URL when deploying
+url: "https://tobiaswolf.net"
 baseurl: ""  # set if deploying to a subpath
 
 author:
