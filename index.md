@@ -5,19 +5,7 @@ description: "Condensed matter physicist exploring complex quantum materials."
 
 <section class="hero">
   <div class="container">
-    <svg class="icon-lattice" viewBox="0 0 200 200" aria-hidden="true" focusable="false">
-      <defs>
-        <linearGradient id="gridGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stop-color="var(--accent)" stop-opacity="0.5" />
-          <stop offset="100%" stop-color="var(--text)" stop-opacity="0.2" />
-        </linearGradient>
-      </defs>
-      <g fill="none" stroke="url(#gridGradient)" stroke-width="1">
-        <path d="M0 40h200M0 80h200M0 120h200M0 160h200" />
-        <path d="M40 0v200M80 0v200M120 0v200M160 0v200" />
-        <path d="M0 0l200 200M0 200L200 0" stroke-opacity="0.3" />
-      </g>
-    </svg>
+    <img class="icon-lattice" src="{{ '/images/honeycomb-lattice.png' | relative_url }}" alt="Honeycomb Lattice" aria-hidden="true">
     <div class="hero-grid">
       <div class="hero-body">
         <p class="kicker">Condensed matter physicist</p>
@@ -81,7 +69,7 @@ description: "Condensed matter physicist exploring complex quantum materials."
     <div class="highlights">
       <div class="highlight-item">
         <span class="highlight-icon">
-          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2Zm0 15a5 5 0 1 1 5-5 5 5 0 0 1-5 5Zm0-7a2 2 0 1 0 2 2 2 2 0 0 0-2-2Z"/></svg>
+          <img src="{{ '/assets/icons/moire-badge.png' | relative_url }}" alt="Moiré quantum matter" class="icon">
         </span>
         <div class="highlight-body">
           <strong>Moiré quantum matter</strong>
@@ -90,7 +78,7 @@ description: "Condensed matter physicist exploring complex quantum materials."
       </div>
       <div class="highlight-item">
         <span class="highlight-icon">
-          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 3h2v9a2 2 0 0 0 4 0V3h2v9a4 4 0 0 1-8 0Z"/></svg>
+          <img src="{{ '/assets/icons/correlated-badge.png' | relative_url }}" alt="Correlated phases" class="icon">
         </span>
         <div class="highlight-body">
           <strong>Correlated phases</strong>
@@ -99,7 +87,7 @@ description: "Condensed matter physicist exploring complex quantum materials."
       </div>
       <div class="highlight-item">
         <span class="highlight-icon">
-          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3 12c3-4 6-4 9 0s6 4 9 0" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          <img src="{{ '/assets/icons/signatures-badge.png' | relative_url }}" alt="Observable signatures" class="icon">
         </span>
         <div class="highlight-body">
           <strong>Observable signatures</strong>
@@ -108,7 +96,7 @@ description: "Condensed matter physicist exploring complex quantum materials."
       </div>
       <div class="highlight-item">
         <span class="highlight-icon">
-          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2Zm1 10.59 3.3 3.3-1.41 1.41L12 14.41l-2.89 2.89-1.41-1.41 3.3-3.3-3.3-3.3 1.41-1.41L12 10.59l2.89-2.89 1.41 1.41Z"/></svg>
+          <img src="{{ '/assets/icons/manybody-badge.png' | relative_url }}" alt="Many-body quantum theory" class="icon">
         </span>
         <div class="highlight-body">
           <strong>Many-body quantum theory</strong>
