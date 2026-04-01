@@ -4,13 +4,12 @@ description: "Condensed matter physicist exploring complex quantum materials."
 ---
 
 <section class="hero">
-  <div class="container">
-    <img class="icon-lattice" src="{{ '/images/honeycomb-lattice.png' | relative_url }}" alt="Honeycomb Lattice" aria-hidden="true">
+  <div class="container hero-shell">
     <div class="hero-grid">
       <div class="hero-body">
         <p class="kicker">Condensed matter physicist</p>
         <h1>Tobias Wolf</h1>
-        <p class="lead">I study emergent phenomena in complex quantum materials, combining theory and computation to explain correlated electron phases, moiré-engineered band structures, and the signatures that experiments can measure.</p>
+        <p class="lead">I study emergent phenomena in quantum materials, using theory and computation to explain correlated electron phases, moir&eacute;-engineered band structures, and the signatures that experiments can measure.</p>
         <div class="hero-meta">
           <span class="icon-text">
             <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 12a5 5 0 1 0-5-5 5 5 0 0 0 5 5Zm0 2c-3.33 0-10 1.67-10 5v1h20v-1c0-3.33-6.67-5-10-5Z"/></svg>
@@ -21,39 +20,58 @@ description: "Condensed matter physicist exploring complex quantum materials."
             <span>{{ site.author.location }}</span>
           </span>
         </div>
+        <div class="hero-signals" aria-label="Research themes">
+          <span class="signal-pill">Moir&eacute; quantum matter</span>
+          <span class="signal-pill">Correlated phases</span>
+          <span class="signal-pill">Theory + computation</span>
+        </div>
         <div class="actions">
           <a class="btn primary" href="{{ '/files/CV_Web_WolfTobias_Nov4_2024.pdf' | relative_url }}">
             <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20h14v-2H5v2zm7-16-5 5h3v6h4V9h3l-5-5z"/></svg>
             Download CV
           </a>
-          <a class="btn ghost" href="{{ site.author.scholar_url }}" target="_blank" rel="noopener">
-            <img class="icon icon-brand" src="{{ '/assets/icons/googlescholar.svg' | relative_url }}" alt="Google Scholar">
-            Google Scholar
+          <a class="btn ghost" href="{{ '/about/' | relative_url }}">
+            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 5h16v2H4Zm0 6h16v2H4Zm0 6h10v2H4Z"/></svg>
+            Research overview
           </a>
-          <a class="btn ghost" href="{{ site.author.github }}" target="_blank" rel="noopener">
-            <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 .5a12 12 0 0 0-3.79 23.4c.6.11.82-.26.82-.58v-2.02c-3.34.73-4.04-1.61-4.04-1.61a3.18 3.18 0 0 0-1.34-1.77c-1.1-.75.09-.74.09-.74a2.54 2.54 0 0 1 1.85 1.25 2.58 2.58 0 0 0 3.5 1 2.57 2.57 0 0 1 .77-1.62c-2.67-.3-5.47-1.34-5.47-5.95a4.65 4.65 0 0 1 1.24-3.22 4.3 4.3 0 0 1 .12-3.18s1-.32 3.3 1.23a11.4 11.4 0 0 1 6 0c2.3-1.55 3.3-1.23 3.3-1.23a4.3 4.3 0 0 1 .12 3.18 4.65 4.65 0 0 1 1.24 3.22c0 4.62-2.8 5.64-5.48 5.94a2.9 2.9 0 0 1 .83 2.24v3.32c0 .33.21.7.82.58A12 12 0 0 0 12 .5Z"/></svg>
-            GitHub
-          </a>
+        </div>
+        <div class="profile-links" aria-label="Academic profiles">
+          <span class="profile-links__label">Profiles</span>
+          <a class="profile-link" href="{{ site.author.scholar_url }}" target="_blank" rel="noopener">Google Scholar</a>
+          <a class="profile-link" href="{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a>
           {% if site.author.orcid %}
-          <a class="btn ghost" href="{{ site.author.orcid }}" target="_blank" rel="noopener">
-            <img class="icon icon-brand" src="{{ '/assets/icons/orcid.svg' | relative_url }}" alt="ORCID">
-            ORCID
-          </a>
+          <a class="profile-link" href="{{ site.author.orcid }}" target="_blank" rel="noopener">ORCID</a>
           {% endif %}
           {% if site.author.researchgate %}
-          <a class="btn ghost" href="{{ site.author.researchgate }}" target="_blank" rel="noopener">
-            <img class="icon icon-brand" src="{{ '/assets/icons/researchgate.svg' | relative_url }}" alt="ResearchGate">
-            ResearchGate
-          </a>
+          <a class="profile-link" href="{{ site.author.researchgate }}" target="_blank" rel="noopener">ResearchGate</a>
           {% endif %}
           {% if site.author.arxiv %}
-          <a class="btn ghost" href="{{ site.author.arxiv }}" target="_blank" rel="noopener">
-            <img class="icon icon-brand" src="{{ '/assets/icons/arxiv.svg' | relative_url }}" alt="arXiv">
-            arXiv
-          </a>
+          <a class="profile-link" href="{{ site.author.arxiv }}" target="_blank" rel="noopener">arXiv</a>
           {% endif %}
         </div>
       </div>
+      <aside class="hero-visual" aria-label="Research snapshot">
+        <div class="hero-portrait">
+          <img src="{{ '/images/profile.jpeg' | relative_url }}" alt="Portrait of Tobias Wolf" loading="eager">
+          <div class="hero-badge">
+            <span class="hero-badge__marker" aria-hidden="true"></span>
+            <div>
+              <span class="hero-badge__label">Research snapshot</span>
+              <strong>Moir&eacute; systems, correlated phases, and experimentally testable theory.</strong>
+            </div>
+          </div>
+        </div>
+        <div class="hero-panel">
+          <div class="hero-panel__item">
+            <span class="hero-panel__label">Current themes</span>
+            <p>Rhombohedral graphene, metallic magnetism, intervalley coherence, and collective excitations.</p>
+          </div>
+          <div class="hero-panel__item">
+            <span class="hero-panel__label">Working style</span>
+            <p>Analytical modeling, numerical pipelines, and close feedback with spectroscopy and transport experiments.</p>
+          </div>
+        </div>
+      </aside>
     </div>
   </div>
 </section>
