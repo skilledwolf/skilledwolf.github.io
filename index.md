@@ -169,6 +169,14 @@ description: "Condensed matter physicist exploring complex quantum materials."
       </div>
       <div class="card">
         <h3>
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 4h8v2H8Zm-3 4h14v10H5Zm3 3v4h8v-4Z"/></svg>
+          Software
+        </h3>
+        <p>Published research packages with source repositories and documentation.</p>
+        <a class="btn ghost small" href="{{ '/software/' | relative_url }}">Browse packages</a>
+      </div>
+      <div class="card">
+        <h3>
           <svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M7 2h10v2H7Zm10 3H7a2 2 0 0 0-2 2v13l5-2 5 2 5-2V7a2 2 0 0 0-2-2Zm0 13.28-3 1.2-5-2-5 2V7h13Z"/></svg>
           Curriculum vitae
         </h3>

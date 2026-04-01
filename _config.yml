@@ -27,6 +27,8 @@ nav_links:
     url: "/"
   - label: "About"
     url: "/about/"
+  - label: "Software"
+    url: "/software/"
   - label: "Publications"
     url: "https://scholar.google.ch/citations?hl=en&user=Txjl9gEAAAAJ&view_op=list_works&sortby=pubdate"
     external: true
